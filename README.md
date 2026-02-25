@@ -12,4 +12,4 @@ Sou um desenvolvedor apaixonado por dados, focado em construir pipelines eficien
 * [Church Accounting System](https://github.com/bennyfarias/contabilidade-church): Sistema de gestão e contabilidade.
 
 📫 **Como me encontrar:**
-* [LinkedIn]([seu-link-aqui](https://www.linkedin.com/in/benfarias/)
+* [LinkedIn](https://www.linkedin.com/in/benfarias/)
