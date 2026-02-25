@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá! Eu sou o Benjamin 👋
 
-<!--
-**bennyfarias/bennyfarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por dados, focado em construir pipelines eficientes e soluções analíticas. Atualmente, busco minha primeira oportunidade formal como **Engenheiro de Dados Júnior**.
 
-Here are some ideas to get you started:
+🛠️ **Minhas Habilidades:**
+* **Linguagens:** Python, SQL, TypeScript
+* **Engenharia de Dados:** ETL/ELT, Modelagem de Dados, APIs
+* **Ferramentas & Infra:** Docker, PostgreSQL, S3/MinIO, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Destaque do Portfólio:**
+* [Weather Data Pipeline]([https://github.com/bennyfarias/weather-data-pipeline): Pipeline ETL ponta a ponta simulando Data Lake e DW localmente com Docker.
+* [Church Accounting System](https://github.com/bennyfarias/contabilidade-church): Sistema de gestão e contabilidade.
+
+📫 **Como me encontrar:**
+* [LinkedIn]([seu-link-aqui](https://www.linkedin.com/in/benfarias/)
