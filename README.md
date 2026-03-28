@@ -9,7 +9,8 @@ Sou um desenvolvedor apaixonado por dados, focado em construir pipelines eficien
 
 💡 **Destaque do Portfólio:**
 * [Weather Data Pipeline](https://github.com/bennyfarias/weather-data-pipeline): Pipeline ETL ponta a ponta simulando Data Lake e DW localmente com Docker.
-* [Church Accounting System](https://github.com/bennyfarias/contabilidade-church): Sistema de gestão e contabilidade.
-
+* [Big Data environment for a large public institution ](https://github.com/bennyfarias/pyspark-medallion-contracts-pipeline): Public Contracts Anomaly Detection
+* [BCB Macroeconomic Data Lakehouse](https://github.com/bennyfarias/bcb_data_lakehouse): 🏦 BCB Macroeconomic Data Lakehouse
+* 
 📫 **Como me encontrar:**
 * [LinkedIn](https://www.linkedin.com/in/benfarias/)
