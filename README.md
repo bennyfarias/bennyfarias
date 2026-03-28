@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por dados, focado em construir pipelines eficien
 💡 **Destaque do Portfólio:**
 * [Weather Data Pipeline](https://github.com/bennyfarias/weather-data-pipeline): Pipeline ETL ponta a ponta simulando Data Lake e DW localmente com Docker.
 * [Big Data environment for a large public institution ](https://github.com/bennyfarias/pyspark-medallion-contracts-pipeline): Public Contracts Anomaly Detection
-* [BCB Macroeconomic Data Lakehouse](https://github.com/bennyfarias/bcb_data_lakehouse): 🏦 BCB Macroeconomic Data Lakehouse
+* [BCB Macroeconomic Data Lakehouse](https://github.com/bennyfarias/bcb_data_lakehouse): 🏦 Pipeline de Engenharia de Dados End-to-End desenvolvido para extrair, processar e modelar indicadores macroeconômicos brasileiros (Taxa Selic e IPCA) 
 * 
 📫 **Como me encontrar:**
 * [LinkedIn](https://www.linkedin.com/in/benfarias/)
