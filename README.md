@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Benjamin 👋
 
-Sou um desenvolvedor apaixonado por dados, focado em construir pipelines eficientes e soluções analíticas. Atualmente, busco minha primeira oportunidade formal como **Engenheiro de Dados Júnior**.
+Sou um desenvolvedor apaixonado por dados, focado em construir pipelines eficientes e soluções analíticas. 
 
 🛠️ **Minhas Habilidades:**
 * **Linguagens:** Python, SQL, TypeScript
